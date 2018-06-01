@@ -17,12 +17,9 @@ Some packages are **unstable** and many are maintained by **dedicated volunteers
  * [Enable-Motors](https://github.com/rdegosse/Enable-Motors) change motors configuration (`movement_keep_active_<x,y,z>`)
  * [Farmware Tools](https://github.com/FarmBot-Labs/farmware-tools) Tools for use by Farmware
  * [farmware-w215](https://github.com/gillesmag/farmware-w215) FarmBot Farmware to control a D-link DSP-W215
- * [FarmwareUnit](https://github.com/etcipnja/FarmwareUnit) Farmware regression testing suite
- * [Garden Time Lapse](https://github.com/jvwowd/garden-time-lapse)
  * [Loop-Plants-With-Filters](https://github.com/rdegosse/Loop-Plants-With-Filters)
  * [MLH](https://github.com/etcipnja/MLH) Loop helper for sequences.
  * [Netatmo](https://github.com/etcipnja/Netatmo) Add a weatherstation to your bot.
- * [pin-data-farmware](https://github.com/FarmBot-Labs/pin-data-farmware) Farmware for saving and plotting soil sensor data.
  * [Plant Grid](https://github.com/FarmBot-Labs/plant-grid)
  * [Plant Circle](https://github.com/isaacolson/plant-circle)
  * [Plants Manager](https://github.com/rdegosse/Plants-Manager)
