@@ -23,7 +23,7 @@ Some packages are **unstable** and many are maintained by **dedicated volunteers
  * [Plant Grid](https://github.com/FarmBot-Labs/plant-grid)
  * [Plant Circle](https://github.com/isaacolson/plant-circle)
  * [Plants Manager](https://github.com/rdegosse/Plants-Manager)
- * [Plotting and Solar Power Utilities](https://github.com/N3v3l/Farmware_public)
+ * [pin-data-farmware](https://github.com/FarmBot-Labs/pin-data-farmware) Farmware for saving and plotting soil sensor data.
  * [Seedalot](https://github.com/etcipnja/Seedalot) Seeding helper utility.
  * [set-servo-angle](https://github.com/FarmBot-Labs/set-servo-angle)
  * [Trigger Photo](https://github.com/bakuhatsu/trigger_photo)
