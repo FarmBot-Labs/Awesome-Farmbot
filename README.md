@@ -31,6 +31,7 @@ Some packages are **unstable** and many are maintained by **dedicated volunteers
  * [Plants Manager](https://github.com/rdegosse/Plants-Manager)
  * [Seedalot](https://github.com/etcipnja/Seedalot) Seeding helper utility.
  * [Trigger Photo](https://github.com/bakuhatsu/trigger_photo)
+ * [Farmbot-Py](https://github.com/xebia/farmbot-py/) Python library to interact with FarmBot via MQTT
 
 # Apps
 
