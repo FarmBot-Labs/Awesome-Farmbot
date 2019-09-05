@@ -23,6 +23,7 @@ Some packages are **unstable** and many are maintained by **dedicated volunteers
  ## Community
 
  * :star: [Power Loop](https://github.com/amerkay/powerloop) Loop your Farmbot by plants with filters, or by automatic waypoint calculation to cover plant search results grid area.
+ * [Water Doser](https://github.com/amerkay/water-doser/) Use a weather API to intelligently water plants.
  * [Enable-Motors](https://github.com/rdegosse/Enable-Motors) change motors configuration (`movement_keep_active_<x,y,z>`)
  * [farmware-w215](https://github.com/gillesmag/farmware-w215) FarmBot Farmware to control a D-link DSP-W215
  * [Loop-Plants-With-Filters](https://github.com/rdegosse/Loop-Plants-With-Filters)
